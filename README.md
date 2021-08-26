@@ -1,4 +1,4 @@
-# github-repos-search
+# github repos search 
 
 Get a list of Github repositories of specified username sorted by numbers of stars in descending order and last updated time
 
