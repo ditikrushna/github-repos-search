@@ -1,0 +1,27 @@
+{
+  "name": "github-repos-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/ditikrushna/github-repos-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditikrushna/github-repos-search.git"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Ditikrushna Giri <ditikrushna.nit@gmail.com>",
+  "license": "ISC"
+}
