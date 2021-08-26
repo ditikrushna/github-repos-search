@@ -1,4 +1,4 @@
-# github-repos-searchh
+# github repos searchh
 
 Get a list of Github repositories of specified username sorted by numbers of stars in descending order and last updated time
 
@@ -16,10 +16,10 @@ yarn add github-repos-searchh
 
 ```js
 # using require
-const { getRepos } = require('github-repos-search');
+const { getRepos } = require('github-repos-searchh');
 
 # using import
-import { getRepos } from 'github-repos-search';
+import { getRepos } from 'github-repos-searchh';
 ```
 
 ## Example
